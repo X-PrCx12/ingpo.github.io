@@ -1,37 +1,8 @@
-<!DOCTYPE html>
+# INGPO - PAGE
 
-<html lang="en-US">
+<h3> hai </h3>
 
-<head>
 
-<meta charset="UTF-8">
+# Theme
 
-<meta name="viewport" content="width=device-width, initial-scale=1">
-
-<title>Time right now is: </title>
-
-</head>
-
-<body>
-
-<script>
-
-let d = new Date();
-
-document.body.innerHTML = "<h1>Time right now is: " + d.getHours() + ":" + d.getMinutes() + ":" + d.getSeconds()
-
-"</h1>"
-
-</script>
-
-<form>
-
-  <input class="search" type="text" placeholder="Cari..." required>	
-
-  <input class="button" type="button" value="Cari">		
-
-</form>
-
-</body>
-
-</html>
+ingpo.github.io
